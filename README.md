@@ -25,7 +25,7 @@ And add this line to your Jekyll site's `_config.yml`:
 theme: just-the-docs
 ```
 
-And then execute:
+And then execute in Git Bash Command Prompt:
 
     $ bundle
 
