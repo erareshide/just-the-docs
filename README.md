@@ -13,7 +13,7 @@
 
 ## Installation
 
-Add this line to your Jekyll site's Gemfile:
+If you have an existing website that you want to convert into Jekyll, add this line to your site's Gemfile:
 
 ```ruby
 gem "just-the-docs"
