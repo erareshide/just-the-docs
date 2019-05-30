@@ -59,7 +59,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsc
 
 To set up your environment to develop this theme, run `bundle install`.
 
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+Your theme is set up just like a normal Jekyll site! To test your theme, open a command prompt and navigate to the folder where your site is located. Run `bundle exec jekyll serve`. This will make a prompt with a URL, which will be something like `http://127.0.0.1:4000/lithics`. Open your browser and visit this address to see your site. This is being served on your computer, rather than the Internet. To make it available beyond your computer, you will need to enable GitHub Pages on the GitHub site. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
 When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
 
