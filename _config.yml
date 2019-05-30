@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Learning about Lithics
 description: An introduction to lithics and flintknapping
-baseurl: "/lithics/" # the subpath of your site, e.g. /blog
+baseurl: "/lithics" # the subpath of your site, e.g. /blog
 url: "https://erareshide.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -26,15 +26,15 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Learning about Lithics":
-    - "//github.com/erareshide/lithics"
+  "Elisabeth (Ely) Rareshide":
+    - "https://erareshide.github.io"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-2709176-10
+# ga_tracking:
 
 plugins:
   - jekyll-seo-tag
