@@ -56,3 +56,18 @@ li {
 .text-center {
   text-align: center !important;
 }
+
+.site-title {
+//  font-family: georgia, serif;
+//  display: block;
+//  background-color:#fff;
+//  font-size: 20px;
+  border-bottom: 0px;
+}
+
+// Hanging indentation for citations
+
+p.hangingindent {
+  padding-left:50px; // block indentation
+  text-indent: -20px; // reduces indentation of first line
+}
