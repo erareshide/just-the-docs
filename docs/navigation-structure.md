@@ -21,6 +21,8 @@ The main navigation for your Just the Docs site is on the left side of the page 
 
 By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see [Pages with Children](#pages-with-children)).
 
+Create new pages in the "docs" folder following the templates in the "\_layouts" folder. To create pages with children, create the folder for the children in the "docs" folder. In order for the pages to appear in the Navigation Menu in the left-hand sidebar, specify the nav_order as explained below.
+
 ---
 
 ## Ordering pages
