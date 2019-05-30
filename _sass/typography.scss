@@ -72,12 +72,14 @@ p.hangingindent {
   text-indent: -20px; // reduces indentation of first line
 }
 
+// Centers figures
 figure {
   text-align: center;
   margin-right:auto;
   margin-left:auto
 }
 
+// Styling for figure captions: Centers figure captions, makes text slightly smaller, but bold
 figcaption {
   font-size: 95%;
   font-weight: bold;
