@@ -71,3 +71,19 @@ p.hangingindent {
   padding-left:50px; // block indentation
   text-indent: -20px; // reduces indentation of first line
 }
+
+figure {
+  text-align: center;
+  margin-right:auto;
+  margin-left:auto
+}
+
+figcaption {
+  font-size: 95%;
+  font-weight: bold;
+  line-height: 90%;
+  width: 499px;
+  margin-right:auto;
+  margin-left:auto;
+  text-align: left
+}
