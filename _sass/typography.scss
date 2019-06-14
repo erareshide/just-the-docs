@@ -97,11 +97,12 @@ figcaption {
 //  margin-left:auto
 //}
 
-// Styling for Glossary alphabet buttons. Creates buttons the same color as regular link fonts (dark blue). Makes font 3x the normal size.
+// Styling for Glossary alphabet buttons. Creates buttons the same color as regular link fonts (dark blue). Makes font 2.5x the normal size.
 
 a.glossary-alphabet {
   background-color: #7253ed;
   color: #ffffff;
   border-color: #7253ed;
-  font-size: 300%;
+  font-size: 250%;
+  padding-left: 5px
 }
